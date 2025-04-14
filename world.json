@@ -1,0 +1,17 @@
+{
+  "title": "Mass Effect: The Genophage",
+  "id": "mass-effect-silent-dagger",
+  "system": "dnd5e",
+  "background": "Genophage%20Wallpaper.png",
+  "joinTheme": "default",
+  "description": "<p>It is the year 800 CE. Once a place of flourishing commerce and innovative research, the Milky Way has become a breeding ground of war and strife, with Krogans refusing to be seen as a lesser race, shrugging off their shackles of perceived servitude as shock troopers for the Turian army, and declaring war on their former masters. With strength many times that of the average Turian, redundant organs giving them massive vitality, a natural predilection for extreme violence, and an extremely high birth rate, they are an implacable foe that could assert their dominion through force over the combined might of all enlightened species.</p>",
+  "coreVersion": "12.327",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "download": "https://github.com/JessCT-Dev/foundryvtt-masseffect/archive/refs/tags/main.zip",
+  "systemVersion": "3.2.1",
+  "lastPlayed": "Sun Apr 06 2025 09:32:37 GMT-0700 (Pacific Daylight Time)"
+}
+
